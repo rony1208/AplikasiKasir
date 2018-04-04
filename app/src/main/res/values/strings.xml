@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MOBILE PURCHASE APP</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_garasi">Garasi</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="title">Title</string>
+    <string name="login">Sign In</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+
+    <!--Nav-->
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+    <string name="navigation_daftar_pesanan">Daftar Pesanan</string>
+    <string name="navigation_history_pesanan">History Pesanan</string>
+    <string name="navigation_histori_minggu">Minggu terakhir</string>
+    <string name="navigation_histori_bulan">Bulan Terakhir</string>
+    <string name="navigation_anggaran">Input Anggaran</string>
+    <string name="navigation_Pengaturan">Pengaturan</string>
+    <string name="navigation_sign_out">SIGN OUT</string>
+</resources>
